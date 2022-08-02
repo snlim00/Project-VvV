@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0dcde8f35fb7f76409ff8400c215af3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - turretPref: {instanceID: 0}
+  - expBar: {instanceID: 0}
+  - HpBar: {instanceID: 0}
+  - PpBar: {instanceID: 0}
+  - HpText: {instanceID: 0}
+  - PpText: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - ringCtrl: {instanceID: 0}
+  - itemGenerator: {instanceID: 0}
+  - ringObject: {instanceID: 0}
+  - cover: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
